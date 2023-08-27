@@ -1,0 +1,94 @@
+#image{
+    width: 150px;
+    height: 186px;
+    align-items: center;
+    margin: -30px 4px;
+}
+.add{
+    /* position: fixed; */
+    /* top: 3px;
+    right: 3px; */
+    padding: 19px 15px;
+    border: 2px solid black;
+    width: 250px;
+    height: 150px;
+    font-size: 20px;
+    margin: 14px 8px;
+}
+.slogan{
+    /* padding: 30px 20px;
+    border: 2px solid black;
+    margin: auto; */
+    text-align: center;
+    font-size: 17px;
+    padding: 15px 4px;
+    margin: 5px 4px;
+}
+.c1{
+    display: inline-block;
+}
+#obj{
+    font-size: 25px;
+}
+.container{
+    display: inline-block;
+    padding: 11px 19px;
+    border: 2px solid black;
+    margin: 11px 55px;
+    width: 357px;
+    border-radius: 10px;
+}
+.int{
+    /* padding-top: 388px; */
+} 
+.int{
+    font-size: 20px;
+    position: absolute;
+}
+.strength li{
+    font-size: 20px;
+}
+.strength{
+    position: absolute;
+    margin-left: 550px;
+}
+.marks p{
+    font-size: 20px;
+}
+.mar{
+    font-size: 20px;
+}
+.moocs{
+    font-size: 20px;
+}
+.image img{
+    width: 266px;
+    height: 218px;
+    padding: 16px 13px;
+    margin: 3px 3px;
+}
+#project{
+    position: absolute;
+    font-size: 20px;
+    border: 3px solid black;
+    padding: 20px 25px;
+    margin: 96px 180px;
+    width: 400px;
+}
+#skill{
+    font-size: 20px;
+    border: 3px solid black;
+    padding: 6px 11px;;
+    margin: 34px 110px;
+    width: 400px;
+    margin-left: 817px;
+}
+.skills{
+    display: inline-block;
+    border-radius: 10px;
+}
+body{
+    background-color: rgb(247, 251, 252);
+.col{
+    background-color: rgb(178, 244, 226);
+}
